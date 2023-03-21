@@ -12,7 +12,7 @@ Steps:
 
 1   Salvo il numero di chilometri da percorrere
 2   Salvo età passeggero 
-3
-4
-5
-6
+3   Verifico se minorenne  
+4   Verifico se over 65
+5   Calcolo Prezzo Totale
+6   Stampo Output su HTML
